@@ -1,0 +1,17 @@
+{
+  "name": "paynext-sdk",
+  "version": "1.0.0",
+  "description": "Official JavaScript SDK for PayNext – SaaS Billing & Subscription Platform",
+  "main": "index.js",
+  "keywords": ["paynext", "payments", "subscriptions", "billing", "saas"],
+  "author": "PayNext",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "scripts": {
+    "test": "node examples/test-runner.js"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
